@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.class
+
+# Ignore build folders
+target/
+build/
+out/
+
+# Ignore IDE settings
+.idea/
+.settings/
+.classpath
+.project
